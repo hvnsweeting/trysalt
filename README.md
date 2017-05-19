@@ -1,5 +1,10 @@
 # Give SaltStack a try
 
+SaltStack is a Python software to automate the management and configuration of
+any infrastructure or application at scale.
+
+More on https://docs.saltstack.com/
+
 ## Docker hub
 
 [hvnsweeting/trysalt](https://hub.docker.com/r/hvnsweeting/trysalt/)
